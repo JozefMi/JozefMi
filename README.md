@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JozefMi
-- 👀 I’m interested in programing
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on unity project
 - 📫 How to reach me jozef.michalisin@seznam.cz
 
 <!---
